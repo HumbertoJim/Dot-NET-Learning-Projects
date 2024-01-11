@@ -1,0 +1,7 @@
+C:\Users\HUMBERTO\Documents\Github\Dot-NET-Learning-Projects\01-HelloWorld\01-HelloWorld\bin\Debug\01-HelloWorld.exe.config
+C:\Users\HUMBERTO\Documents\Github\Dot-NET-Learning-Projects\01-HelloWorld\01-HelloWorld\bin\Debug\01-HelloWorld.exe
+C:\Users\HUMBERTO\Documents\Github\Dot-NET-Learning-Projects\01-HelloWorld\01-HelloWorld\bin\Debug\01-HelloWorld.pdb
+C:\Users\HUMBERTO\Documents\Github\Dot-NET-Learning-Projects\01-HelloWorld\01-HelloWorld\obj\Debug\01-HelloWorld.csproj.AssemblyReference.cache
+C:\Users\HUMBERTO\Documents\Github\Dot-NET-Learning-Projects\01-HelloWorld\01-HelloWorld\obj\Debug\01-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\HUMBERTO\Documents\Github\Dot-NET-Learning-Projects\01-HelloWorld\01-HelloWorld\obj\Debug\01-HelloWorld.exe
+C:\Users\HUMBERTO\Documents\Github\Dot-NET-Learning-Projects\01-HelloWorld\01-HelloWorld\obj\Debug\01-HelloWorld.pdb
